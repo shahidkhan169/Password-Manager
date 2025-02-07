@@ -33,4 +33,4 @@ A secure and efficient password manager with a browser extension to store, manag
 
 ## UI Layouts
 
-<img src="" />
+<img src="docs/UI Layout.png" />
