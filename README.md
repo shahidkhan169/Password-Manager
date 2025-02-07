@@ -30,3 +30,7 @@ A secure and efficient password manager with a browser extension to store, manag
 - **bcrypt** – Secure hashing
 - **Helmet.js** – Security middleware for HTTP headers
 - **Rate Limiting** – Prevent brute-force attacks
+
+## UI Layouts
+
+<img src="" />
